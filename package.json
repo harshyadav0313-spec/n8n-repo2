@@ -1,8 +1,8 @@
 {
-  "name": "n8n-repo1",
+  "name": "n8n-repo2",
   "version": "1.0.0",
   "scripts": {
-    "start": "n8n start"
+    "start": "node start.js"
   },
   "dependencies": {
     "n8n": "latest"
