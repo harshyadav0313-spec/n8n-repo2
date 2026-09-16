@@ -2,9 +2,9 @@
   "name": "n8n-repo2",
   "version": "1.0.0",
   "scripts": {
-    "start": "node start.js"
+    "start": "npx n8n start"
   },
   "dependencies": {
-    "n8n": "latest"
+    "n8n": "1.76.0"
   }
 }
